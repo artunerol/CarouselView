@@ -1,0 +1,18 @@
+//
+//  CarouselView.h
+//  CarouselView
+//
+//  Created by Artun Erol on 16.12.2022.
+//
+
+#import <Foundation/Foundation.h>
+
+//! Project version number for CarouselView.
+FOUNDATION_EXPORT double CarouselViewVersionNumber;
+
+//! Project version string for CarouselView.
+FOUNDATION_EXPORT const unsigned char CarouselViewVersionString[];
+
+// In this header, you should import all the public headers of your framework using statements like #import <CarouselView/PublicHeader.h>
+
+
